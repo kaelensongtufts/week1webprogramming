@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+
+img {
+    height: 300px;
+    padding-right: 10px;
+}
+
+#imgClass{
+    display: block;
+    position: relative;
+    height: auto;
+}
+
+#resClass {
+    display: block;
+    position: relative;
+}
